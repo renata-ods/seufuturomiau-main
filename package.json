@@ -1,0 +1,23 @@
+{
+  "name": "seufuturomiau-main",
+  "version": "1.0.0",
+  "description": "Projeto de site para adoção de gatinhos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renata-ods/seufuturomiau-main.git"
+  },
+  "author": "Renata Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renata-ods/seufuturomiau-main/issues"
+  },
+  "homepage": "https://github.com/renata-ods/seufuturomiau-main#readme",
+  "type": "module",
+  "dependencies": {
+    "index.js": "^0.0.3"
+  }
+}
